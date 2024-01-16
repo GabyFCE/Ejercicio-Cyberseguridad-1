@@ -1,0 +1,6 @@
+copia.sh: OK
+log.txt: FAILED
+pass.txt: OK
+plan-A.txt: OK
+plan-B.txt: OK
+script.py: OK
